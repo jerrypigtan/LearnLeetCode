@@ -1,10 +1,11 @@
 package Test;
 
+// question from : https://leetcode.com/problems/happy-number/description/
+
 public class _0202_HappyNumber {
 
-	public static void main(String[] args) {
-		
-		// question from : https://leetcode.com/problems/happy-number/description/
+	public static void main(String[] args) 
+	{
 		System.out.println(isHappy(19)); // true
 		System.out.println(isHappy(2)); // false
 	}
