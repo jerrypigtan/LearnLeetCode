@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\HashMap"
+    "\\HashMap",
+    "\\PrefixSum"
   ],
-  "SelectedNode": "\\Stack",
+  "SelectedNode": "\\PrefixSum\\_1480_RunningSumof1dArray.java",
   "PreviewInSolutionExplorer": false
 }
